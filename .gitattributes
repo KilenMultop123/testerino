@@ -1,3 +1,0 @@
-'ignore_me.py merge=ours' 
-'please_do_not_merge.py merge=ours' 
-'.gitattributes merge=ours'
