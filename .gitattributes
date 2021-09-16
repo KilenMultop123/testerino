@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 'please_do_not_merge.py merge=ours' 
 'ignore_me.py merge=ours' 
+=======
+'ignore_me.py merge=ours' 
+'please_do_not_merge.py merge=ours' 
+>>>>>>> dev
+'.gitattributes merge=ours' 
